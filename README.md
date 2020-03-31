@@ -6,7 +6,6 @@ Practice large scale OOP with outputing the change of the World/Grass&amp;Goats 
   * If you create a world, there will be initially **10 grass** and **5 goats**.
   * Each grass live **6 days** then die and will have baby from **day 3** to **day 5**.
   * Each goat lives **70 days** then die and will have baby from **day 50** to **day 55**.
-![GITHUB]( https://i.imgur.com/H20ofL4.png "DAY1")
 ## However ...
   * Each goat owns **20 "Grass point"** initially.
   * Goats need to move and consume any grass for **5 "Grass point"**.
@@ -14,16 +13,17 @@ Practice large scale OOP with outputing the change of the World/Grass&amp;Goats 
   * Once **"Grass point"** falls to **0**, the goat dies.
   
 ## Usage：
-  * 1. make
+  1. make
   ```bash
   $ make
   ```
-  * 2. Execute main program, **ALifeTest_**, with an integer, **howManyDaysToLive**.
+  2. Execute main program, **ALifeTest_**, with an integer, **howManyDaysToLive**.
   ```bash
-  $ ./ALifeTest_* 100
+  $ ./ALifeTest_* 1
   ```
-  * 3. (output)
-  * 4. clean files
+  3. (output)
+  ![GITHUB]( https://i.imgur.com/H20ofL4.png "DAY1")
+  4. clean files
   ```bash
   $ make clean
   ```

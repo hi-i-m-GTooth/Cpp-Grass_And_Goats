@@ -22,7 +22,7 @@ Practice large scale OOP with outputing the change of the World/Grass&amp;Goats 
   $ ./ALifeTest_* 1
   ```
   3. (output)
-  ![GITHUB]( https://i.imgur.com/H20ofL4.png "DAY1")
+![GITHUB]( https://i.imgur.com/H20ofL4.png "DAY1")
   4. clean files
   ```bash
   $ make clean
